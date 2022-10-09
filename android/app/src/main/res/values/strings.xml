@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">emailComposer</string>
+    <string name="title_activity_main">emailComposer</string>
+    <string name="package_name">com.jcedenio.emailComposer</string>
+    <string name="custom_url_scheme">com.jcedenio.emailComposer</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+	"appId": "com.jcedenio.emailComposer",
+	"appName": "emailComposer",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
